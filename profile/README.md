@@ -10,3 +10,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+Some ideas:
+* pytest-quiet (minimal output)
+* pytest-incremental (cache test successes)
+* python-repo-template (script to sync repo with template repo)
