@@ -14,4 +14,5 @@
 Some ideas:
 * pytest-quiet (minimal output)
 * pytest-incremental (cache test successes)
+* pytest runtime mode runner
 * python-repo-template (script to sync repo with template repo)
