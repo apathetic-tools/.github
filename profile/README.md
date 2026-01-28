@@ -13,3 +13,4 @@
 
 Some ideas:
 * python-repo-template (script to sync repo with template repo)
+* github-deps-stars (script to remind you to star dependencies)
