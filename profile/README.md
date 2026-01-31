@@ -55,6 +55,8 @@
 |---------|-------------|-------|--------|
 | python-repo-template | script to sync repo with template repo |
 | github-deps-stars | script to remind you to star dependencies | 
+| vscode-human-review | button in vscode to say "I reviewed this file" for vibecoding. pulls git user and date in file header | 
+| mypy + pyright | combines output from mypy + pyright, easily identify when you need an ignore only for one | 
 
 ### Chopping block
 | Project | Description | Scope | Status |
